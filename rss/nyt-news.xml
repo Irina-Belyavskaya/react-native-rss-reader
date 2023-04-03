@@ -1,0 +1,527 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+<channel>
+<title>NYT > Top Stories</title>
+<link>https://www.nytimes.com</link>
+<atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"/>
+<description/>
+<language>en-us</language>
+<copyright>Copyright 2023 The New York Times Company</copyright>
+<lastBuildDate>Fri, 03 Mar 2023 08:05:39 +0000</lastBuildDate>
+<pubDate>Fri, 03 Mar 2023 07:23:32 +0000</pubDate>
+<image>
+<title>NYT > Top Stories</title>
+<url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+<link>https://www.nytimes.com</link>
+</image>
+<item>
+<title>Alex Murdaugh Convicted of Murdering Wife and Son</title>
+<link>https://www.nytimes.com/2023/03/02/us/alex-murdaugh-guilty.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/us/alex-murdaugh-guilty.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/us/alex-murdaugh-guilty.html" rel="standout"/>
+<description>The verdict came less than three hours after jurors began deliberating. It followed a six-week trial that served as a reckoning for Mr. Murdaugh, a lawyer whose life unraveled in recent years.</description>
+<dc:creator>Nicholas Bogel-Burroughs</dc:creator>
+<pubDate>Fri, 03 Mar 2023 02:35:35 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdaugh, Alex (1968- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdaugh, Margaret (d 2021)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdaugh, Paul (d 2021)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Walterboro (SC)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/us/02nat-murdaugh-trial-topreplaced/02murdaugh-trail-740pm-moth.jpg" width="151"/>
+<media:credit>Pool photo by Andrew J. Whitaker</media:credit>
+<media:description>Alex Murdaugh was found guilty on Thursday of murdering his wife, Maggie, 52, and their younger son, Paul, 22, on the family’s rural estate.</media:description>
+</item>
+<item>
+<title>Alex Murdaugh Sentence: Prosecutors to Seek Life Sentence Over Death Penalty</title>
+<link>https://www.nytimes.com/2023/03/02/us/murdaugh-sentence-south-carolina-death-penalty.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/us/murdaugh-sentence-south-carolina-death-penalty.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/us/murdaugh-sentence-south-carolina-death-penalty.html" rel="standout"/>
+<description>Prosecutors have said that they would seek life in prison without the possibility of parole, and not the death penalty.</description>
+<dc:creator>Eduardo Medina</dc:creator>
+<pubDate>Fri, 03 Mar 2023 02:55:09 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdaugh, Alex (1968- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/00murdaugh-trial-sentencing-explainer-01/02murdaugh-trial-promo-915pm-ghpf-moth.jpg" width="151"/>
+<media:credit>Chris Carlson/Associated Press</media:credit>
+<media:description>Alex Murdaugh, center, is led out of Colleton County Courthouse in Walterboro, S.C. by sheriff’s deputies after being convicted on Thursday.</media:description>
+</item>
+<item>
+<title>5 Key Takeaways From the Murdaugh Murders Trial</title>
+<link>https://www.nytimes.com/2023/03/02/us/murdaugh-murders-trial-takeaways.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/us/murdaugh-murders-trial-takeaways.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/us/murdaugh-murders-trial-takeaways.html" rel="standout"/>
+<description>The jury on Thursday convicted Alex Murdaugh, a prominent South Carolina lawyer, of murdering his wife and son.</description>
+<dc:creator>Ben Shpigel and Nicholas Bogel-Burroughs</dc:creator>
+<pubDate>Fri, 03 Mar 2023 02:04:49 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdaugh, Alex (1968- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdaugh, Margaret (d 2021)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdaugh, Paul (d 2021)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Islandton (SC)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02nat-murdaugh-takeways-cqft/02nat-murdaugh-takeways-cqft-moth.jpg" width="151"/>
+<media:credit>Pool photo by Andrew J. Whitaker</media:credit>
+<media:description>Alex Murdaugh arriving at the courthouse in Walterboro, S.C., for closing arguments on Thursday. </media:description>
+</item>
+<item>
+<title>Ohio Residents Confront Train Company Over Derailment as EPA Orders Tests</title>
+<link>https://www.nytimes.com/2023/03/02/us/politics/east-palestine-ohio-train-derailment.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/us/politics/east-palestine-ohio-train-derailment.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/us/politics/east-palestine-ohio-train-derailment.html" rel="standout"/>
+<description>As a representative for Norfolk Southern tried to apologize and outline its recovery efforts, residents shouted over him at a meeting in East Palestine, Ohio, demanding that the company “do the right thing.”</description>
+<dc:creator>Ida Lieszkovszky and Emily Cochrane</dc:creator>
+<pubDate>Fri, 03 Mar 2023 02:56:10 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">East Palestine, Ohio, Train Derailment (Feb 3, 2023)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Norfolk Southern Corporation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Palestine (Ohio)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02-Nat-derail--sub-1-mcjf/02-Nat-derail--sub-1-mcjf-moth-v2.jpg" width="151"/>
+<media:credit>Alan Freed/Reuters</media:credit>
+<media:description>Residents vented and pleaded on Thursday night, describing how their families were still living in hotels or experiencing lingering health problems, including repeated vomiting and rashes.</media:description>
+</item>
+<item>
+<title>Blinken Confronts Lavrov in First Meeting Since Ukraine War</title>
+<link>https://www.nytimes.com/2023/03/02/world/europe/ukraine-blinken-lavrov-g20.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/world/europe/ukraine-blinken-lavrov-g20.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/world/europe/ukraine-blinken-lavrov-g20.html" rel="standout"/>
+<description>Secretary of State Antony J. Blinken said he told Sergey V. Lavrov, the Russian foreign minister, that Moscow must end its war against Ukraine and return to a nuclear arms control treaty.</description>
+<dc:creator>Edward Wong</dc:creator>
+<pubDate>Thu, 02 Mar 2023 22:49:56 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Strategic Arms Reduction Treaty</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Twenty</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blinken, Antony J</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lavrov, Sergey V</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02ukraine-briefing-blinken-speech-topart-ftmz/02ukraine-briefing-blinken-speech-topart-ftmz-moth.jpg" width="151"/>
+<media:credit>Pool photo by Olivier Douliery</media:credit>
+<media:description>Secretary of State Antony J. Blinken speaking to reporters after the G20 foreign ministers’ meeting on Thursday in New Delhi.</media:description>
+</item>
+<item>
+<title>At U.S. Base in Germany, Ukraine’s Military Conducts War Games</title>
+<link>https://www.nytimes.com/2023/03/02/world/europe/ukraine-us-wargames-germany.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/world/europe/ukraine-us-wargames-germany.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/world/europe/ukraine-us-wargames-germany.html" rel="standout"/>
+<description>The exercises come as Ukraine is emerging from a winter that was expected to offer a lull in fighting. Ukraine’s president appeared to signal recently that the country is preparing for a major offensive.</description>
+<dc:creator>Helene Cooper and Eric Schmitt</dc:creator>
+<pubDate>Fri, 03 Mar 2023 04:14:17 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milley, Mark A</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02germany-1-hjmz/02germany-1-hjmz-moth.jpg" width="151"/>
+<media:credit>Omar Havana/Getty Images</media:credit>
+<media:description>The supreme allied commander for Europe, Gen. Christopher G. Cavoli, in Brussels, in January.</media:description>
+</item>
+<item>
+<title>Incursion in Russian Border Town Puts Kremlin on Emergency Footing</title>
+<link>https://www.nytimes.com/2023/03/02/world/europe/russia-ukraine-bryansk-incursion.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/world/europe/russia-ukraine-bryansk-incursion.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/world/europe/russia-ukraine-bryansk-incursion.html" rel="standout"/>
+<description>An armed group said it briefly took control of a border town in Russia’s Bryansk region, but what actually took place there was shrouded in conflicting claims.</description>
+<dc:creator>Anatoly Kurmanaev, Marc Santora and Alan Yuhas</dc:creator>
+<pubDate>Fri, 03 Mar 2023 03:52:05 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bryansk (Russia)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Russian Volunteer Corps</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02ukraine-incursion-ALT-vclj/02ukraine-incursion-ALT-vclj-moth.jpg" width="151"/>
+<media:credit>Kirill Kudryavtsev/Agence France-Presse — Getty Images</media:credit>
+<media:description>A sign marking the boundary of the Bryansk region of Russia, which borders Ukraine, beside a road on Thursday.</media:description>
+</item>
+<item>
+<title>Biden Says He Won’t Veto GOP-Led Proposal to Block D.C. Criminal Code</title>
+<link>https://www.nytimes.com/2023/03/02/us/politics/biden-no-veto-dc-criminal-code.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/us/politics/biden-no-veto-dc-criminal-code.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/us/politics/biden-no-veto-dc-criminal-code.html" rel="standout"/>
+<description>The president said he would not veto legislation he had opposed that would thwart a new District of Columbia criminal code that reduces some sentences, as crime gains potency as a political issue.</description>
+<dc:creator>Carl Hulse</dc:creator>
+<pubDate>Fri, 03 Mar 2023 01:10:47 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Mandatory Sentencing</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Sentences (Criminal)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Vetoes (US)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02DC-BIDENCRIME-cwtp/02DC-BIDENCRIME-cwtp-moth.jpg" width="151"/>
+<media:credit>Doug Mills/The New York Times</media:credit>
+<media:description>President Biden at the Capitol on Thursday. He said that his concern about softening sentences outweighed his opposition to Congress interfering in the District of Columbia’s affairs.</media:description>
+</item>
+<item>
+<title>Canadians Fume as Migrants Surge at Their Border</title>
+<link>https://www.nytimes.com/2023/03/02/world/canada/canada-migrants-immigration.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/world/canada/canada-migrants-immigration.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/world/canada/canada-migrants-immigration.html" rel="standout"/>
+<description>A surge in illegal crossings from the United States has led to calls to shut down a rural road on the Canadian border.</description>
+<dc:creator>Norimitsu Onishi</dc:creator>
+<pubDate>Fri, 03 Mar 2023 03:34:44 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Treaties</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Carleton University</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of Canada</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/27/world/00canada-border/00canada-border-moth.jpg" width="151"/>
+<media:credit>Nasuna Stuart-Ulin for The New York Times</media:credit>
+<media:description>Migrants from Afghanistan, Angola, Zimbabwe and other places arriving at the Roxham Road border crossing last month in Saint-Bernard-de-Lacolle, Quebec.</media:description>
+</item>
+<item>
+<title>House Ethics Committee Opens Inquiry Into George Santos</title>
+<link>https://www.nytimes.com/2023/03/02/nyregion/george-santos-ethics-investigation.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/nyregion/george-santos-ethics-investigation.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/nyregion/george-santos-ethics-investigation.html" rel="standout"/>
+<description>The House Ethics Committee unanimously voted to authorize an investigation into whether Mr. Santos broke various laws or engaged in sexual misconduct.</description>
+<dc:creator>Michael Gold and Grace Ashford</dc:creator>
+<pubDate>Thu, 02 Mar 2023 23:12:14 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Santos, George (1988- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Lying</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/02/07/multimedia/07santos-ethics-fcgq/07santos-ethics-fcgq-moth.jpg" width="151"/>
+<media:credit>Haiyun Jiang/The New York Times</media:credit>
+<media:description>Representative George Santos was the subject of several complaints filed with the House Ethics Committee.</media:description>
+</item>
+<item>
+<title>Rail Safety Upgrade in Greece Is Hobbled by Delays and Neglect</title>
+<link>https://www.nytimes.com/2023/03/02/world/europe/greece-rail-safety.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/world/europe/greece-rail-safety.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/world/europe/greece-rail-safety.html" rel="standout"/>
+<description>The technology would have automatically stopped trains before they collided. Years of delays and neglect have left Greece with a hobbled system.</description>
+<dc:creator>Monika Pronczuk and Sarah Hurtes</dc:creator>
+<pubDate>Fri, 03 Mar 2023 00:56:24 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Greece Train Crash (Feb 28, 2023)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Larissa (Greece)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mitsotakis, Kyriakos</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02greece-1-wpqk/02greece-1-wpqk-moth.jpg" width="151"/>
+<media:credit>Angelos Tzortzinis for The New York Times</media:credit>
+<media:description>At least 57 people died when two trains collided near the city of Larissa early Wednesday.</media:description>
+</item>
+<item>
+<title>Once the World’s Largest, a Hotel Goes ‘Poof!’ Before Our Eyes</title>
+<link>https://www.nytimes.com/2023/03/02/nyregion/hotel-pennsylvania-nyc.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/nyregion/hotel-pennsylvania-nyc.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/nyregion/hotel-pennsylvania-nyc.html" rel="standout"/>
+<description>The Hotel Pennsylvania in Manhattan was a virtual city within a city. But in the end, nothing could save it.</description>
+<dc:creator>Dan Barry</dc:creator>
+<pubDate>Fri, 03 Mar 2023 02:18:39 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hotel Pennsylvania</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Demolition</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vornado Realty Trust</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goodman, Benny</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McKim, Mead & White</category>
+</item>
+<item>
+<title>Tennessee Becomes First State to Ban Drag Shows on Public Property</title>
+<link>https://www.nytimes.com/2023/03/02/us/tennessee-bans-drag-shows.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/us/tennessee-bans-drag-shows.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/us/tennessee-bans-drag-shows.html" rel="standout"/>
+<description>The law, which takes effect later this year, will also make it illegal to perform the shows in places where they could be viewed by minors.</description>
+<dc:creator>Livia Albeck-Ripka</dc:creator>
+<pubDate>Fri, 03 Mar 2023 04:47:11 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Drag (Performance)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, William Byron (1959- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02xp-tennessee-drag-vkjh/02xp-tennessee-drag-vkjh-moth.jpg" width="151"/>
+<media:credit>Mark Zaleski/Associated Press</media:credit>
+<media:description>Gov. Bill Lee of Tennessee earlier this month. On Thursday, he signed a bill that will sharply restrict drag performances.</media:description>
+</item>
+<item>
+<title>What Will Make Hybrid Work Stick?</title>
+<link>https://www.nytimes.com/2023/03/02/business/hybrid-work-from-home-office.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/business/hybrid-work-from-home-office.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/business/hybrid-work-from-home-office.html" rel="standout"/>
+<description>Hybrid work has been choose-your-own-adventure, but now C.E.O.s are making their choices more permanent.</description>
+<dc:creator>Emma Goldberg and Hilary Swift</dc:creator>
+<pubDate>Thu, 02 Mar 2023 21:09:45 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conductor Inc</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starbucks Corporation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jassy, Andrew R</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/00Hybrid-01-hzpl/00Hybrid-01-hzpl-moth.jpg" width="151"/>
+<media:description>Conductor, a software company, has offices in Manhattan and other locations. It doubled its real estate in 2021.</media:description>
+</item>
+<item>
+<title>Why Willem Dafoe Can’t Slow Down</title>
+<link>https://www.nytimes.com/2023/03/02/t-magazine/willem-dafoe.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/t-magazine/willem-dafoe.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/t-magazine/willem-dafoe.html" rel="standout"/>
+<description>For nearly 50 years, the actor has made himself go toward places other artists hardly ever seek.</description>
+<dc:creator>Susan Dominus, Collier Schorr and Jay Massacret</dc:creator>
+<pubDate>Thu, 02 Mar 2023 15:30:18 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dafoe, Willem</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Inside (Movie)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wooster Group</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
+</item>
+<item>
+<title>In Ukraine, the United States Is In Over Its Head</title>
+<link>https://www.nytimes.com/2023/03/02/opinion/ukraine-aid-united-states-nato.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/opinion/ukraine-aid-united-states-nato.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/opinion/ukraine-aid-united-states-nato.html" rel="standout"/>
+<description>The only way Ukraine can achieve total victory is with NATO troops on the ground. Is anyone ready for that?</description>
+<dc:creator>Thomas Meaney</dc:creator>
+<pubDate>Thu, 02 Mar 2023 23:22:08 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/03/multimedia/28meaney1-ptvq/28meaney1-ptvq-moth.jpg" width="151"/>
+<media:credit>Filip Singer/EPA, via Shutterstock</media:credit>
+<media:description>Ukrainian soldiers are being trained on Leopard 2 battle tanks in Germany.</media:description>
+</item>
+<item>
+<title>The Promise and Peril of Biden’s Climate Policy</title>
+<link>https://www.nytimes.com/2023/03/02/opinion/biden-climate-policy.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/opinion/biden-climate-policy.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/opinion/biden-climate-policy.html" rel="standout"/>
+<description>It’s a really big deal — but will the grid be able to handle it?</description>
+<dc:creator>Paul Krugman</dc:creator>
+<pubDate>Fri, 03 Mar 2023 00:00:07 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02krugman_1-ljkz/02krugman_1-ljkz-moth.jpg" width="151"/>
+<media:credit>Collin Chappelle for The New York Times</media:credit>
+</item>
+<item>
+<title>The Power of Art in a Political Age</title>
+<link>https://www.nytimes.com/2023/03/02/opinion/politics-art-beauty.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/opinion/politics-art-beauty.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/opinion/politics-art-beauty.html" rel="standout"/>
+<description>Searching for beauty as the world turns ugly.</description>
+<dc:creator>David Brooks</dc:creator>
+<pubDate>Fri, 03 Mar 2023 00:00:06 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdoch, Iris</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scruton, Roger (1944- )</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Ralph</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02brooks_1-tqgp/02brooks_1-tqgp-moth.jpg" width="151"/>
+<media:credit>Karsten Moran for The New York Times</media:credit>
+</item>
+<item>
+<title>Two Different Versions of ‘Cancel Culture’</title>
+<link>https://www.nytimes.com/2023/03/02/opinion/lab-leak-dilbert-cancel-culture.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/opinion/lab-leak-dilbert-cancel-culture.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/opinion/lab-leak-dilbert-cancel-culture.html" rel="standout"/>
+<description>Scott Adams and the lab-leak theory of Covid.</description>
+<dc:creator>David French</dc:creator>
+<pubDate>Thu, 02 Mar 2023 20:41:00 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Cancel Culture</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/opinion/02french-newsletter-image/02french-newsletter-image-moth.jpg" width="151"/>
+<media:credit>Ricardo Tomás</media:credit>
+</item>
+<item>
+<title>I Can’t Believe It’s Nut Butter</title>
+<link>https://www.nytimes.com/2023/03/02/dining/i-cant-believe-its-nut-butter.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/dining/i-cant-believe-its-nut-butter.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/dining/i-cant-believe-its-nut-butter.html" rel="standout"/>
+<description>This secret ingredient enlivens vegan cacio e pepe, creamy mattar paneer and more recipes.</description>
+<dc:creator>Tanya Sichynsky</dc:creator>
+<pubDate>Thu, 02 Mar 2023 21:17:05 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/17/dining/aw-vegan-cacio-e-pepe-copy/aw-vegan-cacio-e-pepe-moth.jpg" width="151"/>
+<media:credit>David Malosh for The New York Times. Food Stylist: Simon Andrews.</media:credit>
+</item>
+<item>
+<title>Dominate Me, but Not Like That</title>
+<link>https://www.nytimes.com/2023/03/01/podcasts/modern-love-domination-kink-bdsm.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/01/podcasts/modern-love-domination-kink-bdsm.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/01/podcasts/modern-love-domination-kink-bdsm.html" rel="standout"/>
+<description>After feeling hopeless about dating, the musician Aly Tadros discovered B.D.S.M. It was both painful and cathartic — and taught her what she really needed.</description>
+<dc:creator>Anna Martin, Julia Botero, Christina Djossa, Elyssa Dudley, Hans Buetow, Sara Sarasohn, Jen Poyant and Sophia Lanman</dc:creator>
+<pubDate>Wed, 01 Mar 2023 21:00:07 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Online Dating</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">audio-positive-escape</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-immersive</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2018/06/10/fashion/01modernlove-podcast-image/10MODERNLOVE-moth.jpg" width="151"/>
+<media:credit>Brian Rea</media:credit>
+</item>
+<item>
+<title>Stream These 5 TV Shows and Movies Before They Leave Netflix in March</title>
+<link>https://www.nytimes.com/2023/02/28/arts/television/netflix-expiring-march.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/02/28/arts/television/netflix-expiring-march.html</guid>
+<atom:link href="https://www.nytimes.com/2023/02/28/arts/television/netflix-expiring-march.html" rel="standout"/>
+<description>Cult-favorite TV shows and some movies that should have gotten more Oscar love than they did: Catch these titles before they’re gone for U.S. subscribers.</description>
+<dc:creator>Jason Bailey</dc:creator>
+<pubDate>Tue, 28 Feb 2023 20:16:54 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+</item>
+<item>
+<title>G.O.P. Witnesses, Paid by Trump Ally, Embraced Jan. 6 Conspiracy Theories</title>
+<link>https://www.nytimes.com/2023/03/02/us/politics/house-weaponization-committee-jan-6.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/us/politics/house-weaponization-committee-jan-6.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/us/politics/house-weaponization-committee-jan-6.html" rel="standout"/>
+<description>Democrats said a trio of witnesses billed as “whistle-blowers” provided no evidence of wrongdoing, espoused false claims about the Capitol riot and were compensated by an ally of former President Donald J. Trump.</description>
+<dc:creator>Luke Broadwater and Adam Goldman</dc:creator>
+<pubDate>Fri, 03 Mar 2023 02:23:34 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Whistle-Blowers</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Committee to Investigate the January 6th Attack</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Select Subcommittee on the Weaponization of the Federal Government</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jordan, Jim (1964- )</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02dc-weaponization-sub-zlkq/02dc-weaponization-sub-zlkq-moth.jpg" width="151"/>
+<media:credit>Doug Mills/The New York Times</media:credit>
+<media:description>A report by Democrats notes that the men are tied to far-right Republican operatives and former Trump administration officials who have an interest in promoting false claims about the Jan. 6, 2021, attack.</media:description>
+</item>
+<item>
+<title>Nicaragua’s Human Rights Abuses Similar to Nazi Regime, Investigators Find</title>
+<link>https://www.nytimes.com/2023/03/02/world/americas/nicaragua-human-rights-nazi-germany-un.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/world/americas/nicaragua-human-rights-nazi-germany-un.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/world/americas/nicaragua-human-rights-nazi-germany-un.html" rel="standout"/>
+<description>A U.N. inquiry found that President Daniel Ortega and top members of his government committed human rights abuses, providing evidence for efforts to try them overseas.</description>
+<dc:creator>Frances Robles</dc:creator>
+<pubDate>Thu, 02 Mar 2023 22:17:10 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ortega, Daniel</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murillo, Rosario</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nicaragua</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02nicaragua-01-tgzf/02nicaragua-01-tgzf-moth.jpg" width="151"/>
+<media:credit>Oswaldo Rivas/Reuters</media:credit>
+<media:description>President Daniel Ortega and his wife, Vice President Rosario Murillo, in 2018.</media:description>
+</item>
+<item>
+<title>Wayne Shorter, a Jazz Hero Whose Goal Was ‘to Fear Nothing’</title>
+<link>https://www.nytimes.com/2023/03/02/arts/music/wayne-shorter-songs.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/arts/music/wayne-shorter-songs.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/arts/music/wayne-shorter-songs.html" rel="standout"/>
+<description>The saxophonist, who died on Thursday at 89, redefined jazz composition by embracing the unknown. Listen to nine of his recordings with Miles Davis, Joni Mitchell, Esperanza Spalding and more.</description>
+<dc:creator>Giovanni Russonello</dc:creator>
+<pubDate>Fri, 03 Mar 2023 05:02:51 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Jazz</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shorter, Wayne</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Iphigenia (Opera)</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/03/multimedia/03shorter-gfbh/03shorter-gfbh-moth.jpg" width="151"/>
+<media:credit>Erik Carter for The New York Times</media:credit>
+<media:description>Throughout his life, Wayne Shorter was a fierce and articulate defender of the right to stand alone — or better yet, to take risks in reliable company.</media:description>
+</item>
+<item>
+<title>‘Everything Everywhere All at Once’ Props Fetch Thousands at Auction</title>
+<link>https://www.nytimes.com/2023/03/02/style/everything-everywhere-all-at-once-props-auction.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/style/everything-everywhere-all-at-once-props-auction.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/style/everything-everywhere-all-at-once-props-auction.html" rel="standout"/>
+<description>Hot dog hands, a raccoon puppet and other oddities from the multiverse fetched thousands of dollars in an online auction of props from “Everything Everywhere All at Once.”</description>
+<dc:creator>Callie Holtermann</dc:creator>
+<pubDate>Thu, 02 Mar 2023 23:01:37 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Everything Everywhere All at Once (Movie)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">A24 Films LLC</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Academy Awards (Oscars)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Costumes</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Memorabilia and Souvenirs</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/fashion/02AUCTION-12/02AUCTION-12-moth.jpg" width="151"/>
+<media:credit>A24</media:credit>
+<media:description>A raccoon puppet named Raccacoonie that figures in a sight gag about a chef controlled via scalp-mounted varmint sold for $90,000. If that’s not a sign of a robust economy, what is?</media:description>
+</item>
+<item>
+<title>Skiing Town to Town in a Magical Corner of Vermont</title>
+<link>https://www.nytimes.com/2023/03/02/travel/vermont-cross-country-skiing-craftsbury-center.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2023/03/02/travel/vermont-cross-country-skiing-craftsbury-center.html</guid>
+<atom:link href="https://www.nytimes.com/2023/03/02/travel/vermont-cross-country-skiing-craftsbury-center.html" rel="standout"/>
+<description>A 12-mile cross-country trek takes the writer through a winter wonderland to the town of Craftsbury, where an innovative center is dedicated to “sports, sustainability and stewardship.”</description>
+<dc:creator>David Goodman</dc:creator>
+<pubDate>Thu, 02 Mar 2023 10:00:40 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Cross-Country Skiing</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Craftsbury Outdoor Center</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vermont</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/03/02/multimedia/02Vermont-ski-lede-gjhw/02Vermont-ski-lede-gjhw-moth.jpg" width="151"/>
+<media:credit>Caleb Kenna for The New York Times</media:credit>
+<media:description>The Highland Lodge Trail in Vermont winds through the bucolic countryside of the Northeast Kingdom.</media:description>
+</item>
+<item>
+<title>Few Wordle Players Use Consistent Starting Words, but When They Do, It’s ADIEU</title>
+<link>https://www.nytimes.com/2022/09/01/crosswords/wordle-starting-words-adieu.html</link>
+<guid isPermaLink="true">https://www.nytimes.com/2022/09/01/crosswords/wordle-starting-words-adieu.html</guid>
+<atom:link href="https://www.nytimes.com/2022/09/01/crosswords/wordle-starting-words-adieu.html" rel="standout"/>
+<description>What the data tells us about how people play the game.</description>
+<dc:creator>Deb Amlen</dc:creator>
+<pubDate>Thu, 01 Sep 2022 18:40:21 +0000</pubDate>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Wordle (Puzzle)</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/des">Games</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+<category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gates, Bill</category>
+<media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-moth.jpg" width="151"/>
+<media:credit>Stefani Reynolds/Agence France-Presse, via Getty Images</media:credit>
+<media:description>Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.</media:description>
+</item>
+</channel>
+</rss>
